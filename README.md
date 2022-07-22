@@ -27,7 +27,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-NITC Mess Manager is a web application through which mess administrator of NITC mess will be able to manage the student entries and monthly bills.
+NITC Mess Manager is a web application through which mess administrator of NITC mess will be able to manage the student entries and monthly billsk and students can check their bills, choose their mess etc.
 
 
 
@@ -44,7 +44,7 @@ NITC Mess Manager is a web application through which mess administrator of NITC 
 
 <!-- GETTING STARTED -->
 ## Demo
-- Web app [demo](https://ecstatic-perlman-7b46c0.netlify.app/)
+- Web app [click Here](https://ecstatic-perlman-7b46c0.netlify.app/)
 
 
 <!-- CONTACT -->
