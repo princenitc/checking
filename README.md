@@ -34,7 +34,7 @@ NITC Mess Manager is a web application through which mess administrator of NITC 
 
 ### Built With
 
-* MongoDB
+* Mysql
 * Express.js
 * React.js
 * Node.js
@@ -44,6 +44,9 @@ NITC Mess Manager is a web application through which mess administrator of NITC 
 
 <!-- GETTING STARTED -->
 ## Demo
+##Credentials:
+- username : jitu@gmail.com
+- password : jitu
 - Web app [click Here](https://ecstatic-perlman-7b46c0.netlify.app/)
 
 
